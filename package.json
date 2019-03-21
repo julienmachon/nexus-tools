@@ -1,6 +1,6 @@
 {
   "name": "nexus-grapqhl",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "A GraphQL API wrapper for Nexus",
   "main": "lib/index.js",
   "keywords": [
